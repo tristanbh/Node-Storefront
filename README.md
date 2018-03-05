@@ -1,4 +1,5 @@
-# Week-12-HW
+# Node-Storefront
+
 Week 12 Homework Node Customer
 
 This is a Command Line Interface application that interacts with a mySql database. 
